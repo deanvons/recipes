@@ -2,3 +2,5 @@ Lettuce
 Tomato
 Cucumber
 Olive oil
+Avocado
+Croutons

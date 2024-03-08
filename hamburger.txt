@@ -3,3 +3,5 @@ Hamburger bun
 Lettuce
 Tomato
 Ketchup
+Cheese
+Onion
