@@ -1,0 +1,4 @@
+Lettuce
+Tomato
+Cucumber
+Olive oil
